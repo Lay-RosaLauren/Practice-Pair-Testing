@@ -1,0 +1,16 @@
+{
+  "name": "pair-testing",
+  "version": "1.0.0",
+  "description": "Testes de frontend mockando o backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "init-scripts-test"
+  },
+  "author": "Lay-RosaLauren",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "cypress": "^7.1.0",
+    "faker": "^5.5.3"
+  }
+}
